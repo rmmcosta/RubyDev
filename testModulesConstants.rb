@@ -6,3 +6,7 @@ puts MathCenas::PI
 puts MathCenas::PI
 puts MathCenas::PI
 puts MathCenas::PI * 3
+puts MathCenas::PI
+puts MathCenas::PI
+puts MathCenas::PI
+puts MathCenas::PI
